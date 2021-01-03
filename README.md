@@ -8,7 +8,7 @@
 
 Navy Linux is a remcompilation of the Red Hat Linux project just as the centOS Linux project has been for all these years.
 
-> **Q:** How can I get involved?
+## How can I get involved?
 
 Please view the [contributing](#contributing) section below.
 
