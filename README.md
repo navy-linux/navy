@@ -1,0 +1,1 @@
+[Slack Channel](https://join.slack.com/t/nuevoespaciod-ghs4889/shared_invite/zt-kj37s3lu-~JkloN8UHgH38cyuD97V7Q)
