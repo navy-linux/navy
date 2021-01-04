@@ -8,21 +8,17 @@
 
 Navy Linux The community-powered enterprise Linux operating system. Base on minimal Linux operating system. Navy Linux is a recompilation of the Red Hat Linux project just as the CentOS minimal Linux project has been for all these years.
 
-## How can I get involved?
+## Contributing
 
-Please view the [contributing](#contributing) section below.
-
-## Contact
-
-team@navylinux.com
+If you are a developer, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack Channel](https://join.slack.com/t/nuevoespaciod-ghs4889/shared_invite/zt-kj37s3lu-~JkloN8UHgH38cyuD97V7Q) and jumping into the most relevant channel to your interests.
 
 ## Stay Informed
 
 * [Slack Channel](https://join.slack.com/t/nuevoespaciod-ghs4889/shared_invite/zt-kj37s3lu-~JkloN8UHgH38cyuD97V7Q)
-
-## Contributing
-
-If you are a developer, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack Channel](https://join.slack.com/t/nuevoespaciod-ghs4889/shared_invite/zt-kj37s3lu-~JkloN8UHgH38cyuD97V7Q) and jumping into the most relevant channel to your interests.
+* [Twitter](https://twitter.com/LinuxNavy)
+* [Github](https://github.com/navy-linux/)
+* [Website](http://navylinux.com/)
+* [Email](mailto:team@navylinux.com)
 
 ## FAQ
 
