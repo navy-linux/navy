@@ -16,6 +16,8 @@ If you are a developer, engineer, or otherwise looking to contribute your time a
 
 * [Slack Channel](https://join.slack.com/t/nuevoespaciod-ghs4889/shared_invite/zt-kj37s3lu-~JkloN8UHgH38cyuD97V7Q)
 * [Twitter](https://twitter.com/LinuxNavy)
+* [Facebook](https://www.facebook.com/navylinux)
+* [Linkedin](https://www.linkedin.com/company/navy-linux/)
 * [Github](https://github.com/navy-linux/)
 * [Website](http://navylinux.com/)
 * [Email](mailto:team@navylinux.com)
