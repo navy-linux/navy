@@ -27,3 +27,7 @@ If you are a developer, engineer, or otherwise looking to contribute your time a
 ## How is it different from Rocky / Red Hat / Fedora?
 
 Navy Linux community members plan to keep the minimal Linux operating system as open as the previous release of the Red Hat / CentOS minimal Linux. The Navy Linux Diverted community decided to build Linux as open as possible and minimal operating system allows Linux users to run their server operating systems without using high hardware resources. In the replacement of Red Hat / CentOS minimal Linux. Navy Linux low-level infrastructure a better choice for Linux lovers.
+
+## Special Thanks to our Sponsors
+* [Siteage](https://www.siteage.net/)
+* [Mozemo](https://mozemo.net/)
