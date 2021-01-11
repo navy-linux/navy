@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.navylinux.com/">
-<img src="../master/logo-text.jpg">
+<img src="https://raw.githubusercontent.com/navy-linux/navy/master/logo-text.jpg">
 </a>
 </p>
 
